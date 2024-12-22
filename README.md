@@ -1,6 +1,5 @@
 # **Healthcare Analytics: Emergency Room Patient and Clinic Reports Analysis**
 
-![Blueprint Sketch](https://github.com/snsamia/Healthcare-Analytics/blob/main/demo%20sktech.png)
 
 ## **Overview**
 This project analyzes emergency room visit data using Power BI to uncover insights into patient demographics, visit types, satisfaction levels, and referral patterns. The dashboard is designed to provide actionable insights for optimizing healthcare delivery and enhancing patient care experiences.
