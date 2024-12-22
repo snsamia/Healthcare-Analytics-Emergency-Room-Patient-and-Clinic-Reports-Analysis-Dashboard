@@ -98,9 +98,6 @@ The dataset spans from **2019 to 2020** and includes:
 
 ---
 
-## **Contact**
-If you have any questions or suggestions, feel free to reach out:
-- 📧 [sidratun.samia@gmail.com](mailto:sidratun.samia@gmail.com)
-- 🌐 [LinkedIn](https://www.linkedin.com/in/snsamia/)
+
 
 ---
