@@ -47,7 +47,6 @@ The dashboard is structured to provide a seamless user experience with clear vis
 The blueprint includes:
 - **Summary Page**: Aggregated KPIs and visualizations for quick insights.
 - **Filters and Metrics**: Interactive elements for data customization.
-- **Case Type Split**: Pie chart for administrative and non-administrative visits.
 - **Age and Time Profile**: Charts for age group and time band analyses.
 
 ---
